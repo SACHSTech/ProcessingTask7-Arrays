@@ -1,4 +1,4 @@
-# Processing Task ?? - <Task Name>
+# Processing Task 7 - Arrays
 
 ## Learning Objectives
 In this task, you will learn about defining arrays to animate a collection of objects.
